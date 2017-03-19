@@ -10,11 +10,12 @@ Syrus Industry Cookie Law
 
 == Description ==
 
-Simple Installation
+A simple and elegant plugin to make your WordPress site compliant to EU cookie law.
+Just activate the plugin and your users will be informed that your site has cookies , showing a popup with a personalized message and a customizable link for further information about cookies
 
 == Installation ==
 
-cooming soon
+Just install the plugin from WordPress store and a new entry will appear on your admin dashboard et voila' :)
 
 == Frequently Asked Questions ==
 cooming soon
