@@ -201,7 +201,7 @@ add_action('wp_footer', 'syrus_cookie_law_initialize');
 //link a syrus
 function syrus_cookie_law_add_anchor() {
   ?>
-  <a href="http://www.syrusindustry.com" style="display:none"></a>
+  <a href="https://www.syrusindustry.com" style="font-size:10px" title="SEO Agency">Cookie Law</a>
   <?php
 }
 add_action('wp_footer', 'syrus_cookie_law_add_anchor');
