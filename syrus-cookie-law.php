@@ -1,6 +1,11 @@
 <?php
 /*
 Plugin Name: Syrus Cookie Law
+Plugin URI: https://wordpress.org/plugins/syrus-cookie-law/
+Description: Syrus Cookie Law
+Version: 0.1.0
+Author: Syrus Industry
+Author URI: http://www.syrusindustry.com
 */
 
 
